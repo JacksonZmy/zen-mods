@@ -1,14 +1,23 @@
 {
-    "id": "Left Side Glance Buttons",
-    "name": "Left Side Glance Buttons",
-    "description": "Move the at a glance buttons to the left side of the window.",
+    "id": "MouseGedtures",
+    "name": "MyMouseGedtures",
+    "description": "MouseGedtures.",
+    "scripts": {
+        "MyMouseGestures.uc.js": {
+            "include": [
+                "chrome://browser/content/browser.xhtml"
+            ]
+        }
+    },
     "homepage": "https://github.com/JacksonZmy/zen-mods",
-    "style": "https://github.com/JacksonZmy/zen-mods/blob/main/GlanceButtonsLeft/chrome.css",
+    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/20e8cc78-3dac-4db0-81a4-814672fb50af/chrome.css",
     "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/20e8cc78-3dac-4db0-81a4-814672fb50af/readme.md",
     "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/20e8cc78-3dac-4db0-81a4-814672fb50af/image.png",
     "author": "zephyr",
     "version": "1.0.0",
-    "tags": [],
+    "tags": [
+        "Zen Browser"
+    ],
     "createdAt": "2026-05-01",
     "updatedAt": "2026-05-01"
 }
