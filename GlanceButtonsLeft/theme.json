@@ -1,6 +1,6 @@
 {
-    "id": "Left Side Glance Buttons",
-    "name": "Left Side Glance Buttons",
+    "id": "GlanceButtonsLeft",
+    "name": "GlanceButtonsLeft",
     "description": "Move the at a glance buttons to the left side of the window.",
     "homepage": "https://github.com/JacksonZmy/zen-mods",
     "style": "https://github.com/JacksonZmy/zen-mods/tree/main/GlanceButtonsLeft/chrome.css",
