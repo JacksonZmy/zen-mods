@@ -152,7 +152,11 @@
                     }
                 }
             },
-            //'RLRL': {name: '重启浏览器', cmd: function(event) {		Services.startup.quit(Services.startup.eRestart | Services.startup.eAttemptQuit); 	}},
+            'RDLRDL': {
+                name: '重启浏览器', cmd: function(event) {
+                Services.startup.quit(Services.startup.eRestart | Services.startup.eAttemptQuit);
+                }
+            },
             //'LRLR': {name: '重启浏览器', cmd: function(event) {		Services.startup.quit(Services.startup.eRestart | Services.startup.eAttemptQuit);   }},
 
             // 右上左下 “O”字母模拟
