@@ -1,0 +1,19 @@
+{
+  "id": "Zenslop",
+  "name": "Zenslop",
+  "description": "Adds a live video preview of a currently playing video above the existing media controls in Zen Browser",
+  "author": "Zephyr",
+  "version": "1.0.1",
+  "scripts": {
+    "main.uc.js": {
+      "name": "Zenslop",
+      "description": "Sidebar UI hook and JSWindowActor registration",
+      "include": ["chrome://browser/content/browser.xhtml"]
+    }
+  },
+  "tags": ["picture-in-picture", "pip"],
+  "fork": ["zen"],
+  "ai": "yes",
+  "homepage": "https://github.com/JacksonZmy/zen-mods/tree/main/Zenslop",
+  "readme": "https://github.com/JacksonZmy/zen-mods/tree/main/README.md"
+}
