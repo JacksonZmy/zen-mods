@@ -9,10 +9,8 @@
             ]
         }
     },
-    "homepage": "https://github.com/JacksonZmy/zen-mods",
-    "style": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/20e8cc78-3dac-4db0-81a4-814672fb50af/chrome.css",
-    "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/20e8cc78-3dac-4db0-81a4-814672fb50af/readme.md",
-    "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/20e8cc78-3dac-4db0-81a4-814672fb50af/image.png",
+    "homepage": "https://github.com/JacksonZmy/zen-mods/MyMouseGedtures",
+    "readme": "https://github.com/JacksonZmy/zen-mods/MyMouseGedtures/readme.md",
     "author": "zephyr",
     "version": "1.0.0",
     "tags": [
