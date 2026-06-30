@@ -1,6 +1,6 @@
 {
     "id": "MouseGedtures",
-    "name": "MyMouseGedtures",
+    "name": "MouseGedtures",
     "description": "MouseGedtures.",
     "scripts": {
         "MyMouseGestures.uc.js": {
@@ -9,8 +9,8 @@
             ]
         }
     },
-    "homepage": "https://github.com/JacksonZmy/zen-mods/MyMouseGedtures",
-    "readme": "https://github.com/JacksonZmy/zen-mods/MyMouseGedtures/readme.md",
+    "homepage": "https://github.com/JacksonZmy/zen-mods/tree/main/MouseGedtures",
+    "readme": "https://github.com/JacksonZmy/zen-mods/tree/main/MouseGedtures/readme.md",
     "author": "zephyr",
     "version": "1.0.0",
     "tags": [
