@@ -1,0 +1,14 @@
+/* ===== 地址栏按钮 hover 显隐 ===== */
+#urlbar-icons {
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: none;
+}
+
+/* 鼠标悬停地址栏整体时显示按钮 */
+#urlbar:hover #urlbar-icons,
+  /* 地址栏聚焦（输入网址）时也显示按钮 */
+#urlbar[focused="true"] #urlbar-icons {
+  opacity: 1;
+  pointer-events: auto;
+}
