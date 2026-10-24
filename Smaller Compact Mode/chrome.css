@@ -5,9 +5,9 @@
     }
 }
 
-/* Reduced height — Fixed target #zen-sidebar */
+/* Reduced height — 提高权重，对抗zia mod覆盖 */
 @media (-moz-bool-pref: "zen.view.compact.hide-tabbar") {
-    :root[zen-compact-mode="true"] #zen-sidebar {
+    :root[zen-compact-mode="true"][zen-compact-mode] #zen-sidebar {
         top: calc((100vh - var(--theme-smaller_compact_mode-sidebar_height)*1vh)/2) !important;
         height: calc(var(--theme-smaller_compact_mode-sidebar_height) * 1vh) !important;
 
