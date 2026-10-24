@@ -1,0 +1,10 @@
+{
+  "id": "5941aefd-67b0-453d-9b62-9071a31cbb0d-fixed-0004",
+  "name": "Smaller Compact Mode Fixed",
+  "description": "Reduce the height of the compact sidebar (fixed for new Zen versions)",
+  "version": "1.1.0",
+  "author": "n7itro / fixed",
+  "style": "https://github.com/JacksonZmy/zen-mods/tree/main/Smaller Compact Mode/chrome.css",
+  "preferences": "https://github.com/JacksonZmy/zen-mods/tree/main/Smaller Compact Mode/preferences.json",
+  "tags": ["tabs", "sidebar"]
+}
